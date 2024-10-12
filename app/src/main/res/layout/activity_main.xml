@@ -14,8 +14,8 @@
 
     <Button
         android:id="@+id/btnSetTimer"
-        android:layout_width="130dp"
-        android:layout_height="67dp"
+        android:layout_width="136dp"
+        android:layout_height="69dp"
         android:layout_marginTop="16dp"
         android:text="@string/set_timer" />
 </LinearLayout>
